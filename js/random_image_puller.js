@@ -9,7 +9,7 @@ var Countdown = this.Countdown = (this.Countdown || {});
 	};
 
 	RandomImagePuller.prototype._getLocation = function(){
-		return 'http://420-weed.jpg.to/r?' + Math.random();
+		return 'http://concentrate-marijuana-420.jpg.to/r?' + Math.random();
 	};
 
 	RandomImagePuller.prototype._modifyImage = function($el, loc){
